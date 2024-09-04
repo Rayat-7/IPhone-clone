@@ -67,7 +67,7 @@ const HowItWorks = () => {
      <div className='w-full items-center flex-center md:flex-row flex-col md:gap-44 gap-2'>
      <div className='md:flex-row flex-col md:w-[28%] w-[68%]'>
         <div className='flex-col flex-center gap-5'>
-          <p className='text-slate-400'>A17 pro is entirely new clas of iPhone chip that delivers our <span className='text-white font-semibold'>best graphics performence so far</span></p>
+          <p className='text-slate-400'>A17 pro is entirely new class of iPhone chip that delivers our <span className='text-white font-semibold'>best graphics performence so far</span></p>
           <p className='text-slate-400'>Mobile <span className='text-white font-semibold'>games will look and feel so immersive</span>, with incredibly detailed environments and more realistic charecters.And with industry-leading speed and efficiency,A17 Pro takes fast and runs with it.</p>
         </div>
       </div>
